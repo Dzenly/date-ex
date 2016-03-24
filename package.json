@@ -6,11 +6,19 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Dzenly/date-ex.git"
+  },
   "keywords": [
     "Date",
     "add",
     "day"
   ],
   "author": "Dzenly <alexchem@yandex.ru>",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dzenly/date-ex/issues"
+  },
+  "homepage": "https://github.com/Dzenly/date-ex#readme"
 }
