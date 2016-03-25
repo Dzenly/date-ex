@@ -1,5 +1,5 @@
 {
-  "name": "date-ex",
+  "name": "dz-date-utils",
   "version": "0.1.0",
   "description": "Extra utils for Date.",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/Dzenly/date-ex.git"
+    "url": "git+ssh://git@github.com/Dzenly/dz-date-utils.git"
   },
   "keywords": [
     "Date",
@@ -18,7 +18,7 @@
   "author": "Dzenly <alexchem@yandex.ru>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Dzenly/date-ex/issues"
+    "url": "https://github.com/Dzenly/dz-date-utils/issues"
   },
-  "homepage": "https://github.com/Dzenly/date-ex#readme"
+  "homepage": "https://github.com/Dzenly/dz-date-utils#readme"
 }
